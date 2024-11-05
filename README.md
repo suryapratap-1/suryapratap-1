@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend, MERN**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **suryapratap0765@gmail.com**
 
