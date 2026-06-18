@@ -2,7 +2,7 @@
 <p align="center"><strong>Backend &amp; DevOps Engineer</strong> &nbsp;·&nbsp; Bhubaneswar, India</p>
 <p align="center">
   <a href="https://linkedin.com/in/suryapratapdas">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:suryapratap0765@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="mailto:work.suryapratapdas@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://surya-porfolio.vercel.app">Portfolio</a>
 </p>
 
